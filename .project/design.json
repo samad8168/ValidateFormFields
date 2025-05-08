@@ -1,5 +1,9 @@
 {
-  "Tags": [],
+  "Tags": [
+    {
+      "Key": "UiPathStudioPerformanceTesting"
+    }
+  ],
   "SeparateRuntimeDependencies": false,
   "IncludeSources": true,
   "ConnectorKeys": []
