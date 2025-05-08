@@ -32,7 +32,7 @@ This project automates the RPA Challenge (https://rpachallenge.com/) using UiPat
 4. Saves the updated Excel file with results.
 
 ## Running the Project
-1. Open Main.xaml in UiPath Studio.
+1. Open ValidateFormFields.xaml in UiPath Studio.
 2. Ensure Challange.xlsx in downlods folder is in the project folder.
 3. Run the workflow (F5 or click "Run").
 4. Check the updated Challange.xlsx for results.
